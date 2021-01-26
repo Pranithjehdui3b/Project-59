@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: linear-gradient(#020024 42%, #00d4ff 100%, #73090a 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 200px;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #b71c1c;
+    font-size: 20px;
+}
+
+p {
+    color: #fff3e0;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    color: chocolate;
+}
